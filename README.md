@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+A new Flutter project. Uso y utilización de Widget y menu navegador a las diferentes paginas.
 
 ## Getting Started
 
